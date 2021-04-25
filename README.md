@@ -19,8 +19,6 @@ ReactGA.event({
 });
 ```
 
----
-
 ## Building & Testing Google Analytics Queries
 
 I used the following tools to build queries, then adapted them to this code:
